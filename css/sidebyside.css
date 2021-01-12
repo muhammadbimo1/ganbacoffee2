@@ -1,0 +1,25 @@
+.bgimg {
+  background-image: url('../img/coffee2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+}
+
+.bgimg2 {
+  background-image: url('../img/coffee1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+}
+
+.cn {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
